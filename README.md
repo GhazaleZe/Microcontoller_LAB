@@ -1,2 +1,5 @@
 # Microcontoller_LAB
- programming ATmega with C
+ ## Requirements:
+ - CodeVision
+ - Proteus 8 Professional
+ ## LAB 01: Input and Output
