@@ -1,0 +1,23 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+sevenseg                                                                          0x0160      10
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+AllLedON_4Times                                                                   0x00065     20
+DancingLight                                                                      0x00079     36
+DiplayPortA_onLEDs                                                                0x0009D     21
+NineToZero                                                                        0x000B2     39
+Reduce                                                                            0x000D9     49
+reset7seg                                                                         0x0010A    111
+main                                                                              0x00179      8
