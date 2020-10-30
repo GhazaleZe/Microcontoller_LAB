@@ -7,6 +7,7 @@
 ## Notes:
  - note1: The proteus folder contains hex files, screenshots or a short video, and proteus files.  
  - note2: From LAB02 having separate header files and c files are important, so they are placed in **source**.  
+ - note3: **ATmega16** is the AVR used in this Microcontoller_LAB.  
  ## LAB 01: Input and Output
 This session contains 6 questions in main file.   
 All C codes are in Lab01.c . 
