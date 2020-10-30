@@ -11,6 +11,6 @@ This session contains 6 questions in main file.
 All C codes are in Lab01.c . 
 ## LAB 02 : Subroutines
 The main is in S02.c file but questions functions are in source file.  
-## LAB03 : Keypad and LCD, Interrupts 
+## LAB 03 : Keypad and LCD, Interrupts 
 For keypad notic that how columns and rows are connected.  
 
