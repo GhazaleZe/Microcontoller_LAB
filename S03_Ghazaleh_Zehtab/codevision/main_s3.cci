@@ -1,0 +1,7 @@
+VERSION:3 SOURCE_TIMESTAMP:5153B300
+NODE:I LEVEL:0 LINE:24 "C:\_uni\term7\Micro_Lab\S03_Ghazaleh_Zehtab\codevision\Source\headers.h"
+NODE:V LEVEL:0 LINE:28 "data_key -> RAM:????"
+NODE:V LEVEL:0 LINE:35 "colloc -> RAM:????"
+NODE:V LEVEL:0 LINE:35 "rowloc -> RAM:????"
+NODE:F LEVEL:0 LINE:39 "ext_int1_isr(void)"
+NODE:F LEVEL:0 LINE:47 "main(void)"

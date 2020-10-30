@@ -1,0 +1,39 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+data_key                                                                          0x01E8      16
+colloc                                                                            0x01F8       1
+rowloc                                                                            0x01F9       1
+_base_y                                                                           0x01FA       4
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+_lcd_x                                                                            R5           1
+_lcd_y                                                                            R4           1
+_lcd_maxx                                                                         R7           1
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+ext_int1_isr                                                                      0x000EE     33
+main                                                                              0x0010F      4
+init_board                                                                        0x00113     52
+question1                                                                         0x00147     19
+question2                                                                         0x0015A     64
+question3                                                                         0x0019A     33
+question4                                                                         0x001BB     20
+question5                                                                         0x001CF    111
+question6                                                                         0x0023E     19
+MyKeypad                                                                          0x00251    111
+_lcd_write_nibble_G100                                                            0x002C0     20
+_lcd_write_data                                                                   0x002D4     12
+lcd_gotoxy                                                                        0x002E0     13
+lcd_clear                                                                         0x002ED     12
+lcd_putchar                                                                       0x002F9     21
+lcd_puts                                                                          0x0030E     17
+lcd_init                                                                          0x0031F     46

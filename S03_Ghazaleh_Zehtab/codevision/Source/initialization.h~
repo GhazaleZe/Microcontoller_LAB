@@ -1,0 +1,6 @@
+#ifndef _initialization_INCLUDED_
+#define _initialization_INCLUDED_
+
+void DancingLight(unsigned int StartPoint,unsigned int timer);
+
+#endif
