@@ -1,7 +1,7 @@
 # Microcontoller_LAB  :smiley:
  ## Requirements:
  - CodeVision
- - Proteus 8 Professional
+ - Proteus 8.9 Professional
  ## Programming Language:
  C.  
 ## Notes:
@@ -12,9 +12,10 @@
 This session contains 6 questions in the main file.   
 All C codes are in Lab01.c. 
 ## LAB 02: Subroutines
-The main is in the S02.c file but questions functions are in the source file.  
-## LAB 03: Keypad and LCD, Interrupts 
+The main is in the S02.c file but questions functions are in the source file. 
+## LAB 03: Character LCD, Matrix keyboard, Interrupts  
 For the keypad notice how columns and rows are connected.  
-
+## LAB 04: LCD interrupts and timers   
+The main is in the S04.c file but questions functions are in the source file.
 ### Support:  
 ghazalze@yahoo.com
