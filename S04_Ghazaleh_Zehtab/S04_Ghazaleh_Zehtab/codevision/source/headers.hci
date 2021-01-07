@@ -1,0 +1,8 @@
+VERSION:3 SOURCE_TIMESTAMP:515B04AB
+NODE:I LEVEL:0 LINE:1 "C:\my app\cvavr\inc\mega16.h"
+NODE:I LEVEL:0 LINE:4 "C:\my app\cvavr\inc\alcd.h"
+NODE:I LEVEL:0 LINE:6 "C:\_uni\term7\Micro_Lab\S04_Ghazaleh_Zehtab\codevision\source\timer_init.h"
+NODE:I LEVEL:0 LINE:8 "C:\_uni\term7\Micro_Lab\S04_Ghazaleh_Zehtab\codevision\source\initial.h"
+NODE:I LEVEL:0 LINE:10 "C:\_uni\term7\Micro_Lab\S04_Ghazaleh_Zehtab\codevision\source\interrupts.h"
+NODE:I LEVEL:0 LINE:12 "C:\my app\cvavr\inc\stdio.h"
+NODE:I LEVEL:0 LINE:14 "C:\my app\cvavr\inc\delay.h"

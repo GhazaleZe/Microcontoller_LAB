@@ -1,0 +1,6 @@
+#ifndef _interrupts_INCLUDED_
+#define _interrupts_INCLUDED_
+
+void Timer_Init( void);
+
+#endif
