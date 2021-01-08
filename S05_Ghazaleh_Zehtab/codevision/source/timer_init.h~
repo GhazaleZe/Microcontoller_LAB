@@ -1,0 +1,4 @@
+#ifndef _headers_INCLUDED_
+#define _headers_INCLUDED_
+void timer_init(void);
+#endif
