@@ -4,7 +4,7 @@
 
 #include <delay.h>
 
-// Alphanumeric LCD functions
+
 #include <alcd.h>
 #include <math.h>
 #include <stdio.h>
