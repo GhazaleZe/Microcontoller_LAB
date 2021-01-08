@@ -16,6 +16,10 @@ The main is in the S02.c file but questions functions are in the source file.
 ## LAB 03: Character LCD, Matrix keyboard, Interrupts  
 For the keypad notice how columns and rows are connected.  
 ## LAB 04: LCD interrupts and timers   
-The main is in the S04.c file but questions functions are in the source file.
+The main is in the S04.c file but questions functions are in the source file.  
+## LAB 05: Electric motors  
+The main is in the s05.c file but questions functions are in the source file.  
+## LAB 06: Analog to digital converter  
+The main is in the s06.c file but questions functions are in the source file.  
 ### Support:  
 ghazalze@yahoo.com
