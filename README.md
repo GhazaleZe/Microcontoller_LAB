@@ -1,4 +1,5 @@
-# Microcontoller_LAB  :smiley:
+# Microcontoller_LAB  :smiley:  
+**Note: If you are an IUT student and currently has this lab, please first try to answer the questions by yourself. Then check with mine.**  
  ## Requirements:
  - CodeVision
  - Proteus 8.9 Professional
