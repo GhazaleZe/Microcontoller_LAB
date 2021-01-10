@@ -24,5 +24,8 @@ The main is in the s05.c file but questions functions are in the source file.
 The main is in the s06.c file but questions functions are in the source file. 
 ## LAB 07: UART  
 Questions are in files named 2 to 5. The final one is 5.   
+## LAB 08: Graphic LCD and Dot Matrix 
+The main is in the s08.c file but questions functions are in the source file.   
+There is a short movie in the *watchme4* file from the final output.  
 ### Support:  
 ghazalze@yahoo.com
