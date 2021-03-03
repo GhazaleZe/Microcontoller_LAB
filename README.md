@@ -1,7 +1,7 @@
 # Microcontoller_LAB  :smiley:  
 **Note: If you are an IUT student and currently has this lab, please first try to answer the questions by yourself. Then check with mine.**  
  ## Requirements:
- - CodeVision
+ - CodeVision. In case you are unfamiliar with CodeVision, please take a look at [the video](https://github.com/GhazaleZe/Microcontoller_LAB/blob/main/start_codevision.rar) that I recorded in Persian.  
  - Proteus 8.9 Professional
  ## Programming Language:
  C.  
